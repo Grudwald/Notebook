@@ -1,9 +1,3 @@
-# vue3-course
+# Дневник / Блог
 
-## Подписываемся на телеграм 
-
-[Telegram канал](https://t.me/ulbi_tv)
-
-
-## Если хочешь поддержать меня 
-[Patreon](https://www.patreon.com/ulbitv)
+...
