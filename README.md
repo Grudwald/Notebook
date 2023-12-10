@@ -8,8 +8,6 @@
 npm run serve
 ```
 
-<br>
-
-####*If you are unable to run the application, try installing Node, NPM and VUE CLI on your computer
+##### *If you are unable to run the application, try installing Node, NPM and VUE CLI on your computer
 
 
