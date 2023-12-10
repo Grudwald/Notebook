@@ -30,6 +30,15 @@ nodejs -v
 npm -v
 ```
 
+Все. Осталось только установить Vue CLI:
+```
+npm install -g @vue/cli
+```
+
+<br><br>
+
+
+
 
 
 
