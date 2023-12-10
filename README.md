@@ -5,7 +5,7 @@
 
 
 
-#### Command to start the application
+### Command to start the application
 
 ``` 
 npm run serve
