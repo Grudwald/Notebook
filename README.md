@@ -19,18 +19,7 @@ sudo apt install nodejs
 sudo apt install npm
 ```
 
-Проверьте работоспособность программ командами:
-```
-nodejs -v
-```
-
-и
-
-```
-npm -v
-```
-
-Все. Осталось только установить Vue CLI:
+Ну и конечно же устанавливаем Vue CLI:
 ```
 npm install -g @vue/cli
 ```
