@@ -1,13 +1,13 @@
-# Notebook
+# Блокнот
 
-### Command to start the application
+### Команда для запуска приложения
 
 ``` 
 npm run serve
 ```
 <br>
 
-If you are unable to run the application, try installing Node, NPM and VUE CLI on your computer
+Если вы не можете запустить приложение, попробуйте установить Node, NPM и VUE CLI на свой компьютер
 
 ![иллюстрация](illustration.png)
 
