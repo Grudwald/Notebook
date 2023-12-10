@@ -32,7 +32,7 @@ npm install -g @vue/cli
 npm run serve
 ```
 
-
+<br>
 
 ![иллюстрация](illustration.png)
 
