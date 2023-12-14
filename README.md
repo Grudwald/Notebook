@@ -1,35 +1,35 @@
-# Блокнот
+# Notebook
 
 ![иллюстрация](illustration.png) <br>
 
-### Если вы не можете запустить приложение, то скорее всего на вашем компьютере не установлены Node, NPM и VUE CLI. Что бы у вас все заработало установите их. Вот так это можно сделать на Linux Ubuntu/Mint:
+### If you can't run the application, you probably don't have Node, NPM and VUE CLI installed on your computer. If you want to get things working, install them. This is how you can do it on Linux Ubuntu/Mint:
 
 <br>
 
-Для начала обновите локальный индекс пакетов:
-```shell
+First, update the local package index:
+```
 sudo apt update
 ```
 
-Установите Node js репозиторий:
-```shell
+Install the Node js repository:
+```
 sudo apt install nodejs
 ```
 
-Затем установите менеджер пакетов npm:
-```shell
+Then install the npm package manager:
+```
 sudo apt install npm
 ```
 
-Ну и конечно же устанавливите Vue CLI:
-```shell
+And of course install the Vue CLI:
+```
 npm install -g @vue/cli
 ```
 
 <br><br>
 
 
-Все готово! Можно запускать! Для запуска откройте корневую папку проекта в консоли и запустите проект командой ниже:
+It's done! You can run it! To start, open the root folder of the project in the console and run the project with the command below:
 ```
 npm run serve
 ```
