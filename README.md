@@ -7,22 +7,22 @@
 <br>
 
 Для начала обновите локальный индекс пакетов:
-```
+```shell
 sudo apt update
 ```
 
 Установите Node js репозиторий:
-```
+```shell
 sudo apt install nodejs
 ```
 
 Затем установите менеджер пакетов npm:
-```
+```shell
 sudo apt install npm
 ```
 
 Ну и конечно же устанавливите Vue CLI:
-```
+```shell
 npm install -g @vue/cli
 ```
 
